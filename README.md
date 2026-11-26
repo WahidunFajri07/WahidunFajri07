@@ -45,8 +45,9 @@ const wahidun = {
     "Deterministic Engineering",
   ],
   stack: {
-    frontend: ["TypeScript", "React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "NestJS", "Express", "PostgreSQL", "Prisma"],
+    languages: ["TypeScript", "JavaScript", "Python", "PHP"],
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "NestJS", "Express", "Laravel", "MySQL" "PostgreSQL", "Prisma"],
     tools: ["Git", "Postman", "VS Code"],
   },
 } as const;
@@ -59,19 +60,27 @@ const wahidun = {
 <br />
 <table>
 <tr>
-<td align="center" width="260">
+<td align="center" width="380">
+<b>Languages</b><br /><br />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=ts,js,py,php&theme=dark" height="46" alt="Programming Languages" />
+</a>
+</td>
+<td align="center" width="380">
 <b>Frontend &amp; UI</b><br /><br />
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark" height="46" alt="Frontend Stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" height="46" alt="Frontend Stack" />
 </a>
 </td>
-<td align="center" width="320">
+</tr>
+<tr>
+<td align="center" width="380">
 <b>Backend &amp; Database</b><br /><br />
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma&theme=dark" height="46" alt="Backend Stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,postgres,mysql,prisma&theme=dark" height="46" alt="Backend Stack" />
 </a>
 </td>
-<td align="center" width="200">
+<td align="center" width="380">
 <b>Workflow &amp; Tools</b><br /><br />
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" height="46" alt="Tools Stack" />
