@@ -1,14 +1,7 @@
-<a href="https://github.com/WahidunFajri07">
-<img src="https://www.gitskins.com/api/section/hero?username=WahidunFajri07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139660395%3Fu%3D2f387088de36e6c02603b9b4c93507457dc7b091%26v%3D4&variant=space-shooter&v=space-hero-5&mode=dark" width="100%" alt="WahidunFajri07 animated terminal profile" />
-</a>
--->
-
-<!-- 1. ANIMATED CYBER-GRADIENT HEADER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,35:0F172A,70:1E1B4B,100:0891B2&height=210&section=header&text=Wahidun%20Fajri&fontSize=52&fontColor=E6EDF3&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descColor=31D7FF&descAlignY=65&animation=twinkling" width="100%" alt="Wahidun Fajri animated header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E1B4B,75:0E7490,100:06B6D4&height=220&section=header&text=Wahidun%20Fajri&fontSize=52&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descColor=31D7FF&descAlignY=60&animation=twinkling" width="100%" alt="Wahidun Fajri animated header banner" />
 </div>
 
-<!-- 2. ANIMATED MULTI-LINE TYPING TERMINAL -->
 <div align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=31D7FF&center=true&vCenter=true&multiline=false&width=780&height=45&lines=Software+Engineer+%E2%80%A2+Full-Stack+Developer;Building+Scalable+Web+Platforms+%26+Distributed+Backends;Security+Tooling+for+Autonomous+Agent+Runtimes;End-to-End+Type+Safety+%E2%80%A2+Clean+Architecture" alt="Animated introduction typing SVG" />
@@ -17,7 +10,6 @@
 
 <br />
 
-<!-- 3. SOCIAL & PROFILE VIEWS BAR -->
 <div align="center">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/wahidun-fajri-1a08592b2/">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0F172A&logoColor=31D7FF&labelColor=0F172A&style=for-the-badge" height="30" alt="LinkedIn" />
@@ -39,8 +31,6 @@
 </div>
 
 <br />
-
-<!-- 4. DEVELOPER PROFILE CARD (TYPESCRIPT CONFIG STYLE) -->
 
 const wahidun = {
   role: "Software Engineer • Full-Stack Developer",
@@ -64,7 +54,6 @@ const wahidun = {
 
 <br />
 
-<!-- 5. STRUCTURED TECH STACK MATRIX -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=2500&color=7C3AED&center=true&vCenter=true&width=420&height=30&lines=%E2%9A%A1+CORE+TECH+STACK+%E2%9A%A1" alt="Core Tech Stack" />
 <br />
@@ -94,25 +83,14 @@ const wahidun = {
 
 <br />
 
-<!-- 6. ANIMATED SPACE-SHOOTER CONTRIBUTION HEATMAP -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=2500&color=31D7FF&center=true&vCenter=true&width=460&height=30&lines=%F0%9F%9A%80+LIVE+CONTRIBUTION+ACTIVITY+%F0%9F%9A%80" alt="Contribution Activity" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=2500&color=31D7FF&center=true&vCenter=true&width=460&height=30&lines=%F0%9F%90%8D+LIVE+CONTRIBUTION+ACTIVITY+%F0%9F%90%8D" alt="Contribution Activity" />
 <br />
-<a href="https://github.com/WahidunFajri07">
-<img src="https://www.gitskins.com/api/section/heatmap?username=WahidunFajri07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139660395%3Fu%3D2f387088de36e6c02603b9b4c93507457dc7b091%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="WahidunFajri07 animated contribution jet" />
-</a>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/WahidunFajri07/WahidunFajri07/output/snake.svg" width="100%" alt="WahidunFajri07 contribution snake animation" />
 </div>
-
-<!--
-OPTIONAL: Jika sudah mengaktifkan GitHub Action Platane/snk, uncomment baris di bawah ini:
-<div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/WahidunFajri07/WahidunFajri07/output/snake.svg" width="100%" alt="Snake animation" />
-</div>
--->
 
 <br />
 
-<!-- 7. LIVE 31-DAY CONTRIBUTION PULSE WAVE -->
 <div align="center">
 <a href="https://github.com/WahidunFajri07">
 <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=WahidunFajri07&bg_color=0D1117&color=31D7FF&line=7C3AED&point=E6EDF3&area=true&area_color=31D7FF&hide_border=false&radius=8&custom_title=31-Day%20Contribution%20Pulse" width="100%" alt="WahidunFajri07 31-day activity graph" />
@@ -121,7 +99,6 @@ OPTIONAL: Jika sudah mengaktifkan GitHub Action Platane/snk, uncomment baris di 
 
 <br />
 
-<!-- 8. GITHUB TROPHIES -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=2500&color=7C3AED&center=true&vCenter=true&width=460&height=30&lines=%F0%9F%8F%86+ACHIEVEMENTS+%26+METRICS+%F0%9F%8F%86" alt="Achievements and Metrics" />
 <br />
@@ -132,7 +109,6 @@ OPTIONAL: Jika sudah mengaktifkan GitHub Action Platane/snk, uncomment baris di 
 
 <br />
 
-<!-- 9. GITHUB STATS, TOP LANGUAGES & STREAK -->
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=WahidunFajri07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&bg_color=0D1117&title_color=31D7FF&icon_color=7C3AED&text_color=E6EDF3&border_color=30363D&hide_border=false&border_radius=10&locale=en" height="178" alt="GitHub Stats" />
 &nbsp;
@@ -143,7 +119,6 @@ OPTIONAL: Jika sudah mengaktifkan GitHub Action Platane/snk, uncomment baris di 
 
 <br />
 
-<!-- 10. ANIMATED GRADIENT WAVE FOOTER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,40:1E1B4B,80:0F172A,100:0D1117&height=110&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:0E7490,75:1E1B4B,100:0F172A&height=110&section=footer" width="100%" alt="Footer wave" />
 </div>
